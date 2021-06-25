@@ -1,0 +1,105 @@
+body { 
+    background-color: rgb(255,240,250)
+}
+
+.logo {
+    background-color: rgb(131, 111, 255);
+    color: white;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.list { 
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
+
+h2 { 
+    text-align: center;
+}
+
+.redes {
+    margin: 0 auto;
+    width: 440px;
+    /*border: solid 1px black;*/
+}
+
+.face {
+    height: 64px;
+    width: 64px;
+    margin: 40px;
+}
+
+.insta {
+    height: 64px;
+    width: 64px;
+    margin: 40px;
+}
+
+.twitter {
+    height: 64px;
+    width: 64px;
+    margin: 40px;
+}
+
+.estoque {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.pic-prod {
+    height: 144px;
+    width: 144px;
+}
+
+.info-table {
+    text-align:center;
+}
+
+.formulario {
+    background-color: rgb(131, 111, 255);
+    padding: 12px;
+    margin: 0 auto;
+    width: 224px;
+}
+
+.label {
+    text-align: center;
+}
+
+.text-label {
+    display:block;
+    color: white;
+}
+
+.form-add {
+    text-align: center;
+    margin-top: 8px;
+}
+
+.button {
+    display: inline-block;
+    background-color: rgb(25, 25, 112);
+    color: white;
+}
+
+.button:hover {
+    background-color:rgb(131, 111, 255)
+}
+
+.lista {  
+    background-color: rgb(131, 111, 255);
+    padding: 12px;
+    margin: 0 auto;
+    width: 224px;
+}
+
+.funcionarios {
+    text-align: center;
+    color: white;
+}
